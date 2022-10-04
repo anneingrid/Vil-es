@@ -1,0 +1,56 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    text-align: left;
+    color:black;
+    background-color:aliceblue;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+
+}
+
+.cabecalho{
+    text-align: center;
+    color:black;
+    font-size: 40px;
+    background-color:white;
+    border-bottom: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(76, 201, 250);
+    padding-top: 2px;
+    padding-left: 2px;
+}
+.lista{
+    border: 2px solid rgb(76, 201, 250);
+    padding: 100px;
+    font-family: 'roboto',sans-serif;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius:10px;
+    background-color:white;
+    margin-left: 3px;
+}
+
+.titulo{
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+
+.rodape{
+    background-color: white;
+    color:black;
+    padding: 50px;
+    font-size: 25px;
+}
+main{
+    flex:1;
+}
+*{
+    margin: 1;
+}
